@@ -74,8 +74,6 @@ Diseñado para operadores de seguridad privada que quieren complementar su CCTV 
 
 ## 🏗️ Arquitectura
 
-![Arquitectura Cámaras-IA](Documentacion/arquitectura.png)
-
 **Arquitectura híbrida en dos zonas:**
 
 | Zona | Componentes | Responsabilidad |
